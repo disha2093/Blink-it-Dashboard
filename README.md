@@ -46,5 +46,8 @@ Support strategic business decisions
 Contributions, suggestions, and feedback are welcome!
 
 📬 Contact
+<img width="1295" height="737" alt="image" src="https://github.com/user-attachments/assets/b9c5f200-7d90-44a1-b88d-29c5d8fa78d7" />
 
-If you liked this project, feel free to connect or give it a ⭐ on GitHub!
+
+
+If you liked this project, feel free to connect or give it a ⭐ on GitHub!<img width="1295" height="737" alt="image" src="https://github.com/user-attachments/assets/e533b060-ad58-4581-b034-d458606a243d" />

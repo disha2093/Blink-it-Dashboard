@@ -36,6 +36,6 @@ Support strategic business decisions
 
 Contributions, suggestions, and feedback are welcome!
 
-📬 Contact
 
+If you liked this project, feel free to connect or give it a ⭐ on GitHub
 If you liked this project, feel free to connect or give it a ⭐ on GitHub!

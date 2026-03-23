@@ -4,10 +4,16 @@
 This project presents an interactive Blinkit Sales Dashboard built in Power BI. It analyzes key metrics such as total sales, item count, and customer ratings, along with insights on outlet size, location, and product categories to support data-driven decisions and business growth.
 
 📌 Key Features
+
+
 💰 Total Sales Analysis ($1.20M)
+
 📦 Item Count (8523 items)
+
 ⭐ Average Customer Rating (3.9)
+
 🛒 Category-wise Sales Insights
+
 🧈 Fat Content Analysis (Low Fat vs Regular)
 🏪 Outlet Analysis (Size, Type, Location Tier)
 📈 Sales Trends Over Time
@@ -24,6 +30,9 @@ Power BI
 DAX (Data Analysis Expressions)
 Data Modeling
 Data Visualization
+
+
+
 📂 How to Use
 Download the .pbix file
 Open it in Power BI Desktop
@@ -36,6 +45,6 @@ Support strategic business decisions
 
 Contributions, suggestions, and feedback are welcome!
 
+📬 Contact
 
-If you liked this project, feel free to connect or give it a ⭐ on GitHub
 If you liked this project, feel free to connect or give it a ⭐ on GitHub!
